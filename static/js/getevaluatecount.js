@@ -1,0 +1,1 @@
+getEvaluateCount({"manyiCount":"2","bumanyiCount":"0"})
